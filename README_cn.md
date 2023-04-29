@@ -5,7 +5,7 @@
 
 工作线程类，以独立的线程接收委派的任务。
 
-它是从 cpp-tbox](https://gitee.com/cpp-master/cpp-tbox)项目中提取出来的一个非常好用的模块，剔除与cpp-tbox其它模块相关的功能所得，方便独立使用。  
+它是从[cpp-tbox](https://gitee.com/cpp-master/cpp-tbox)项目中提取出来的一个非常好用的模块，剔除与cpp-tbox其它模块相关的功能所得，方便独立使用。  
 对应 cpp-tbox 的源码：[点我查看](https://gitee.com/cpp-master/cpp-tbox/blob/master/modules/eventx/work_thread.h)
 
 # 怎么使用？
