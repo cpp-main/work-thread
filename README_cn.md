@@ -12,7 +12,15 @@
 将 src/ 下的 work_thread.cpp 与 work_thread.h 复制到您的工程中，与普通代码一起编译即可。
 
 # 怎么调用？
-见 [示例代码](src/main.cpp)
+```c++
+#include "work_thread.h"
+...
+hevake::WorkThread worker;
+...
+worker.execute([]{ DoSomethingByWorker(); });
+...
+```
+详见 [示例代码](src/main.cpp)
 
 # 推荐
 本模块只是[cpp-tbox](https://gitee.com/cpp-master/cpp-tbox)项目宝藏中的冰山一角。  
