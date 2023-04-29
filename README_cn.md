@@ -8,5 +8,8 @@
 它是从[cpp-tbox](https://gitee.com/cpp-master/cpp-tbox)项目中提取出来的一个非常好用的模块，剔除与cpp-tbox其它模块相关的功能所得，方便独立使用。  
 对应 cpp-tbox 的源码：[点我查看](https://gitee.com/cpp-master/cpp-tbox/blob/master/modules/eventx/work_thread.h)
 
-# 怎么使用？
-将 src/work_thread.cpp 与 src/work_thread.h 复制到您的工程中，与普通代码一起编译即可。
+# 怎么集成？
+将 src/ 下的 work_thread.cpp 与 work_thread.h 复制到您的工程中，与普通代码一起编译即可。
+
+# 怎么调用？
+见 [示例代码](src/main.cpp)
