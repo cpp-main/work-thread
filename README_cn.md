@@ -16,4 +16,4 @@
 
 # 推荐
 本模块只是[cpp-tbox](https://gitee.com/cpp-master/cpp-tbox)项目宝藏中的冰山一角。  
-建议前往：[cpp-tbox](https://gitee.com/cpp-master/cpp-tbox)，关注收藏，点亮一个 Star。
+点此前往：[cpp-tbox](https://gitee.com/cpp-master/cpp-tbox)。建议关注收藏，点亮一个 Star。
