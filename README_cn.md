@@ -15,5 +15,5 @@
 见 [示例代码](src/main.cpp)
 
 # 推荐
-本模块只是[cpp-tbox](https://gitee.com/cpp-master/cpp-tbox)项目的宝藏中的冰山一角。  
-建议关注收藏，点亮一个 Star。点它前往：[cpp-tbox](https://gitee.com/cpp-master/cpp-tbox)
+本模块只是[cpp-tbox](https://gitee.com/cpp-master/cpp-tbox)项目宝藏中的冰山一角。  
+建议前往：[cpp-tbox](https://gitee.com/cpp-master/cpp-tbox)，关注收藏，点亮一个 Star。
